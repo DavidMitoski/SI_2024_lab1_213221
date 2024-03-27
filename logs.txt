@@ -1,0 +1,37 @@
+\Users\User\SI_2024_lab1_213221>git log
+commit 8081c676218a90c0ede7fbf8fb32502f18c0e6ef (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:25:32 2024 +0100
+
+     Call method makeBigStringFrom in main class
+
+commit e3292cb08807be6cf6cd7b19135ca747460f02a1
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:16:47 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit dc044c82a8c16429f674b33d885b019564a8d451 (origin/bug1, bug1)
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:19:17 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 71652d529c65fccadb03eccde5f53fc2095f6750
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:12:45 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 5db5feb5fbcadaec8b668791382e4cd1eda7c795
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:07:42 2024 +0100
+
+    Add starter code
+
+commit 052bd7cf6395316655ce6e23e389ec7a6c95fc70
+Author: DavidMitoski <165181489+DavidMitoski@users.noreply.github.com>
+Date:   Wed Mar 27 18:00:32 2024 +0100
+
+    Initial commit
+(END)
